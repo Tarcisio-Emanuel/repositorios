@@ -1,0 +1,21 @@
+extençoes
+
+1 .. Color Highlight
+2 .. CSS Modules
+3 .. Dracula Theme Official
+4 .. Material Icon Theme
+5 .. Sass (.sass only)
+6 .. vscode-styled-components
+
+iniciando
+
+1.. instala node lts
+2.. npm install --global yarn
+3 .. npx create-react-app name
+npm start
+
+npm install react-router-dom
+
+"react-router-dom": "^7.4.0"
+
+API = https://api.github.com
