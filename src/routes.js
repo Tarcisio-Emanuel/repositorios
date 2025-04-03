@@ -10,7 +10,7 @@ export default function MayRoutes(){
         <Routes>
         
         <Route exact path='/'  Component={Main}/>
-        <Route exact path='/repositorios'  Component={Repositorios} />
+        <Route exact path='/repositorios/:repositorios'  Component={Repositorios} />
 
         </Routes>
         </BrowserRouter>
