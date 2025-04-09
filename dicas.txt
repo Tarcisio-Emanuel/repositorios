@@ -18,4 +18,6 @@ npm install react-router-dom
 
 "react-router-dom": "^7.4.0"
 
+
+npm install axios
 API = https://api.github.com
