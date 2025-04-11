@@ -30,7 +30,7 @@ flex-direction: row;
 
 input{
     flex: 1;
-    border: 1px solid #DDD;
+    border: 1px solid ${ props => (props.errors ? '#ff0000' : '#ddd') };
     padding: 10px 15px;
     border-radius: 4px;
     font-size: 17px;
